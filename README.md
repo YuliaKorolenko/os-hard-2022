@@ -120,7 +120,7 @@ ARP (Address resolution protocol)
 
 
 Сетевой стек в ядре линукс
-~~~
+++++
 
 Состоит из 5 слоёв.
 ![image](https://user-images.githubusercontent.com/79725120/213424274-7be17742-7eb5-45d5-8383-9ae5134c11c3.png)
